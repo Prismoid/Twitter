@@ -1,4 +1,5 @@
 # Twitter APIの使い方
+## 参考：Twitter Developer Tutorial: https://developer.x.com/en/docs/x-api/tutorials
 ## 関連するキーは以下の5つ
 ### Twitter Developer Portal: https://developer.x.com/en/portal/dashboard にて以下を取得
 access_token<br>
