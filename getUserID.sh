@@ -1,0 +1,1 @@
+curl --request GET 'https://api.x.com/2/users/by/username/llm120000' --header 'Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAJcFwAEAAAAAyHTUsVORBrM0v0JpXYLXdW3Jkkc%3DPEZDzkXWNPoxNjwn4WQ1kx2eBKZfFkGpH6HjtMEyNyKRLF7yYZ' | jq

@@ -8,7 +8,12 @@ api_key<br>
 api_key_secret<br>
 bearer_token
 
-## ツイートの取得
+## ユーザIDの取得
 ```
 curl --request GET 'https://api.x.com/2/users/by/username/USER_NAME' --header 'Authorization: Bearer XXXXXX'
+```
+
+## ツイートの取得(有料版のみ...)
+```
+curl --request GET 'https://api.x.com/2/users/USER_ID/tweets' --header 'Authorization: Bearer XXXXXX'
 ```
